@@ -1,0 +1,28 @@
+name: technicals
+favicon: null
+layout_spectrum: 0.4458952178247273
+typography_spectrum: 0.0040953068528324366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.849122959189117
+  lightness: 0.9908875522669405
+  saturation: 0.5000793780200183
+  rhythmicContrast: 0.17040332639589906
+purpose: []
